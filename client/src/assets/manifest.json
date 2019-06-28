@@ -1,0 +1,10 @@
+{
+  "name": "Bitcoin4Photos",
+  "start_url": "https://bitcoin4photos.net/manifest.json",
+  "description": "Bitcoin Lightning Network marketplace to buy and sell stock photos and illustrations",
+  "icons": [{
+    "src": "https://bitcoin4photos.net/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}

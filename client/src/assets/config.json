@@ -1,0 +1,6 @@
+{
+    "NODE_ENV": "production",
+    "REACT_APP_SERVER_URL": "https://b4papidev.azurewebsites.net",
+    "REACT_APP_OPEN_NODE_URL": "https://dev-checkout.opennode.co/",
+    "REACT_APP_INVOICE_NETWORK": "lntb"
+}
