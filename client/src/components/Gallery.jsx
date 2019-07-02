@@ -52,7 +52,7 @@ export default class Gallery extends Component {
             <div>
                 <section className="text-center">
                     <div className="container">
-                        <p className="head-text">A zero fee marketplace to buy and sell stock photos and illustrations powered by the Bitcoin Lightning Network</p>
+                        <p className="head-text">A zero fee marketplace to buy and sell stock photos powered by the Bitcoin Lightning Network</p>
                         <SearchImages currentSearch={this.state.currentCategory ? this.state.currentCategory : this.state.searchTerm}></SearchImages>
                     </div>
                 </section>
